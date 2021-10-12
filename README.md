@@ -6,7 +6,7 @@
 
 ## I'm a Full Stack Dev, Sysadmin and Dev-Ops Enthusiast
 
-- 🌱 I’m currently learning Jenkins, Swagger, MinIO, Typescript, OpenShift (OKD 4)
+- 🌱 I’m currently learning Jenkins, Swagger, MinIO, Typescript, Rancher
 
 ### Connect with me:
 
