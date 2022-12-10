@@ -6,7 +6,7 @@
 
 ## I'm a Full Stack Dev, Sysadmin and Dev-Ops Enthusiast
 
-- 🌱 I’m currently learning MinIO, Typescript, Rancher, K8s
+- 🌱 I’m currently learning Rust, gRPC, Kubernetes Clustering and how to build a Datacenter
 
 ### Connect with me:
 
